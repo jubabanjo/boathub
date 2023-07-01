@@ -1,0 +1,16 @@
+body {
+    background-image: url(./images/civic.jpg);
+    background-size: 106%;
+}
+
+p {
+    text-align: center;
+    
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    padding-top: 15%;
+    color: white;
+}
